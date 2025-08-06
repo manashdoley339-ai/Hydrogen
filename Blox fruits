@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/BFHub/main/BFHubV2.lua"))()
